@@ -1,7 +1,7 @@
 # html_email_sample2
 E-Commerce HTML email template to be sent after an order has been placed for a certain product within the ecommerce site.
 
-<img src="#" width="766" height="934" alt="">             
+<img src="https://github.com/ShaviyaVictor/html_email_sample2/blob/main/assets/images/ecommerce_order_html_template.png?raw=true" width="766" height="934" alt="">             
 
 ## Built With
 
@@ -13,7 +13,7 @@ E-Commerce HTML email template to be sent after an order has been placed for a c
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
+This project is licensed under the [MIT License 2.0](https://github.com/ShaviyaVictor/html_email_sample2/blob/main/LICENSE).           
 
 ## Resources
 - [Source](https://my.stripo.email/cabinet/#/template-editor/?emailId=4321464&projectId=727474&templateId=1534765&type=PUBLIC_TEMPLATE&copyCount=1&templateProjectId=469569)         
