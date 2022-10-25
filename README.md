@@ -1,7 +1,7 @@
 # html_email_sample2
 E-Commerce HTML email template to be sent after an order has been placed for a certain product within the ecommerce site.
 
-<img src="#" width="812" height="885" alt="">             
+<img src="#" width="766" height="934" alt="">             
 
 ## Built With
 
